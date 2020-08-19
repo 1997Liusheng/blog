@@ -1,0 +1,6 @@
+1.el-table表头错位问题解决方案 
+	body .el-table th.gutter{
+   	 display: table-cell!important;
+    	}
+
+2.el-table表头错位问题解决方案

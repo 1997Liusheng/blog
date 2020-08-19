@@ -1,0 +1,44 @@
+密码，用户名  没有 最大最小 长度限制
+
+路由切换，页面不更新
+
+组件未挂载
+
+路由未匹配
+
+:is-create="strId" :prop-data="editData
+
+
+数据  editdata 传递
+
+覆盖element UI样式
+
+flex布局 解决自适应的问题
+
+想用JSX在vue中使用，  案例:循环遍历表格，在表格中有部分属性有个性化样式
+
+
+页面没有随着代码修改而修改
+
+使用sass法语能编译，但编译后会报错
+
+外联sass 语法报错，内联语法不报错
+
+拖拽 sortable.js
+
+	el` must be an HTMLElement, not [object Null]"
+
+		nexttick 不行，还没渲染就掉用了，于是改为用了settimeout
+
+el-input无法输入   组件嵌套太深，导致无法组件无法刷新
+
+
+checkbox 初始值  全部为true
+
+调用的接口为异步，接口未赋值，直接拿了data里面的数据  2020.07.10 15点32分
+
+保存 对象，赋值引用类型数据     序列化解决
+
+uni-app 唤起不同的输入法
+
+元素渲染没有进入组件的生命周期，发现是没有加key,导致diff算法认为他并没有更新。
